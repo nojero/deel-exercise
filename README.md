@@ -1,3 +1,7 @@
+# Notes from Santiago:
+
+I was able to create some simple unit tests. To run them please run `npm install` to gather dependencies and then run `npm test`.
+
 # DEEL BACKEND TASK
 
   
